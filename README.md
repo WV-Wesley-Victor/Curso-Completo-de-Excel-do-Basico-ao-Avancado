@@ -1,6 +1,10 @@
 # Curso Completo de Excel do Básico ao Avançado
 
 Bem-vindo ao repositório do **Curso Completo de Excel do Básico ao Avançado**! Este curso foi criado para ajudar você a dominar o Microsoft Excel, desde os conceitos mais básicos até técnicas avançadas, proporcionando um conhecimento sólido e aplicável em diversas situações profissionais e pessoais.
+![logo-do-programa-excel-reproducao-microsoft](https://github.com/user-attachments/assets/ee50f031-e0fe-4f5e-9d98-76af2ab7c1fc)
+<p align="center">
+  <a href="https://www.udemy.com/course/excel-curso-completo/?couponCode=MCLARENT71824" target="_blank">Clique aqui para acessar o curso</a>
+</p>
 
 ## Descrição
 
@@ -35,4 +39,5 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE). Veja o arquivo LICE
 Para dúvidas ou feedback, entre em contato:
 
 - **E-mail:** vitorwesley1013m@gmail.com
+- **LinkedIn:** [wv-wesley-victor](https://www.linkedin.com/in/wv-wesley-victor/)
 - **GitHub:** [wv-wesley-victor](https://github.com/wv-wesley-victor)
